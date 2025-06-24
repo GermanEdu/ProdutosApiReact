@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProdutosApiReact.props" />
+</Project>
