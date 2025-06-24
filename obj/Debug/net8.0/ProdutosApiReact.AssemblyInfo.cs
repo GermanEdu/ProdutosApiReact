@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProdutosApiReact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37186c5cc21393482c37a5e02116c28ed72615fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProdutosApiReact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProdutosApiReact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

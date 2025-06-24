@@ -51,7 +51,7 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Ativa os endpoints dos controllers
+// Ativa os endpoints dos controllers teste de crud alteracao 
 app.MapControllers();
 
 app.Run();

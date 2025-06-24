@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:migrations\\20250623235313_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|solutionrelative:viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE63D69C-A232-450B-A209-8D230301204C}|ProdutosApiReact.csproj|c:\\users\\edu\\documents\\entrevistas\\devpartner\\projetos\\backend\\produtosapireact\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-24T00:25:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "Controllers\\ProdutosController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:55:19.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:55:19.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:54:50.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:54:50.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "20250623235313_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Migrations\\20250623235313_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250623235313_InitialCreate.cs",
@@ -96,18 +111,17 @@
               "RelativeToolTip": "Migrations\\20250623235313_InitialCreate.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:53:42.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:53:42.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAjwDYAAAAVAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAjwDUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T23:47:55.428Z",
               "EditorCaption": ""
@@ -120,14 +134,14 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-23T23:45:48.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Services\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "Services\\AuthenticateService.cs",
@@ -135,12 +149,11 @@
               "RelativeToolTip": "Services\\AuthenticateService.cs",
               "ViewState": "AQIAABYAAAAAAAAAAIA8wCYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:43:54.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:43:54.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserToken.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\ViewModels\\UserToken.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserToken.cs",
@@ -153,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\ViewModels\\RegisterModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterModel.cs",
@@ -166,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\ViewModels\\LoginModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginModel.cs",
@@ -174,12 +187,11 @@
               "RelativeToolTip": "ViewModels\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:42:11.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:42:11.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -187,12 +199,11 @@
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:41:40.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:41:40.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Models\\Produto.cs",
@@ -200,12 +211,11 @@
               "RelativeToolTip": "Models\\Produto.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:40:52.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:40:52.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Edu\\Documents\\Entrevistas\\DevPartner\\Projetos\\backend\\ProdutosApiReact\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
